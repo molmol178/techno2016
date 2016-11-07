@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DF3F921E-0C39-B291-929F-7187DFFF1D7F}") = "GetMotionByKinect-2016Techno-molmol178", "Assembly-CSharp.csproj", "{218244B4-0FDA-84C8-CDF6-77B9CAD5D2C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{218244B4-0FDA-84C8-CDF6-77B9CAD5D2C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218244B4-0FDA-84C8-CDF6-77B9CAD5D2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218244B4-0FDA-84C8-CDF6-77B9CAD5D2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218244B4-0FDA-84C8-CDF6-77B9CAD5D2C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
